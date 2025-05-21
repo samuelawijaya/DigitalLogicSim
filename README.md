@@ -24,7 +24,7 @@ Full-featured, VGA-rendered implementation of a logic circuit simulator, created
 - **Custom Gate Saving & Reuse**  
   Save circuits into reusable custom components (via keys G–L) and place them later (keys 6–0).
 
-- **Up to 3 Inputs/Outputs Per Gate**  
+- **Up to 3 Unique Inputs/Outputs Per Circuit**  
   Simplified gate design to support manageable simulation and truth table resolution.
 
 - **Real-Time Signal Propagation**  
